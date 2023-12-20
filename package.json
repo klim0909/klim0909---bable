@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env"
+    ]
+  }
+}
